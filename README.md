@@ -1,4 +1,5 @@
 # Catalysis2.0
+![Screenshot 2023-12-11 143748](https://github.com/AchyuthPRao/Catalysis2.0/assets/108856697/cc9d2d4c-ecb8-4600-aca3-3643c66b071f)
 
 ## Useful Links
 [Link to the Figma Design](https://www.figma.com/file/kiUDvRCy4G9symzK6J7I8h/Catalysis-2.0-UI-DESIGN?type=design&node-id=711-2&mode=design&t=84wq7nqQR3mbJ8A1-0)
